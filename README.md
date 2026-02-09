@@ -28,6 +28,14 @@ The goal was to identify key factors contributing to attrition and present insig
 - Employees with higher absenteeism and longer working hours show higher attrition tendencies.
 - Lower income levels and shorter tenure are commonly associated with employee exits.
 
+## Intended Use
+
+This dashboard is designed for HR teams and business managers to explore attrition patterns and identify workforce areas that may require attention or intervention.
+
+## How to Use the Dashboard
+
+Use the slicers (Department, Job Role, Gender) to filter the visuals and interactively explore attrition trends across different employee groups.
+
 ## Project Files
 
 - `HR_Attrition_Dashboard.pbix` – Interactive Power BI dashboard
